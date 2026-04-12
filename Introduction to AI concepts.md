@@ -29,3 +29,9 @@ Common uses of NLP technologies for text analysis include:
 - Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
 - Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
 - Redacting PII before sharing or analyzing data to comply with privacy policies and legislation.
+
+## Speech
+Speech capabilities in AI applications and agents enable users to interact with them through spoken language.
+
+### Speech Recognition
+**Speech recognition** is the ability of AI to "hear" and interpret speech. Usually this capability takes the form of _speech-to-text_ (where the audio signal for the speech is transcribed into text).
