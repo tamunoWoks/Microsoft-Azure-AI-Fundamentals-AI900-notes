@@ -14,7 +14,11 @@ Common uses of generative AI include:
 - Automated translation of text between languages.
 - Summarizing or explaining complex documents.
 
-## Text and Natural language
+## Text and Natural Language
 Natural language processing (NLP) is a broad term that covers AI models and techniques for making sense of language. NLP is the foundation on which generative AI large language models (LLMs) are built.
 
 While many natural language processing scenarios are handled by generative AI models today, there are common text analysis use cases where specialist NLP tools are used to produce predictable results or apply custom rules.
+- **Language detection -** determining which language (or languages) a document is written in. Language detection is often the first step in a multi-stage text processing workflow.
+- **Text classification -** assigning document to a specific category; including sentiment analysis to determine whether a body of text is positive, negative, or neutral.
+- **Key-term extraction and entity detection -** identifying key words or phrases in a document, and finding mentions of entities like people, places, and organizations. A particularly specialized form of entity detection is to detect and redact personally identifiable information (PII); such as names, addresses, telephone numbers, and other private details.
+- **Summarization -** Reducing the volume of text while still encapsulating the main points.
