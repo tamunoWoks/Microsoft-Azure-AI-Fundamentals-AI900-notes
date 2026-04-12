@@ -22,3 +22,10 @@ While many natural language processing scenarios are handled by generative AI mo
 - **Text classification -** assigning document to a specific category; including sentiment analysis to determine whether a body of text is positive, negative, or neutral.
 - **Key-term extraction and entity detection -** identifying key words or phrases in a document, and finding mentions of entities like people, places, and organizations. A particularly specialized form of entity detection is to detect and redact personally identifiable information (PII); such as names, addresses, telephone numbers, and other private details.
 - **Summarization -** Reducing the volume of text while still encapsulating the main points.
+
+### Text analysis scenarios
+Common uses of NLP technologies for text analysis include:
+- Analyzing document or transcripts of calls and meetings to determine key subjects and identify specific mentions of people, places, organizations, products, or other entities.
+- Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
+- Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
+- Redacting PII before sharing or analyzing data to comply with privacy policies and legislation.
