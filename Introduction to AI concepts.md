@@ -73,3 +73,10 @@ AI is commonly used to automate information extraction solutions that find infor
 The basis for most document analysis solutions is a computer vision technology called **optical character recognition** (OCR), which can identify the location of text in an image. OCR is often combined with an analytical model that can interpret individual values in the document, and so extract specific fields.
 
 While most data extraction models have historically focused on extracting fields from text-based forms, more advanced models that can extract information from audio recording, images, and videos are becoming more readily available.
+
+### Data and insight extraction scenarios
+Common uses of AI to extract data and insights include:
+- Automated processing of forms and other documents in a business process - for example, processing an expense claim.
+- Large-scale digitization of data from paper forms. For example, scanning and archiving census records.
+- Indexing documents for search.
+- Identifying key points and follow-up actions from meeting transcripts or recordings.
