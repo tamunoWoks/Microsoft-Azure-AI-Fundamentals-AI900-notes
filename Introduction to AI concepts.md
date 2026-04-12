@@ -47,3 +47,6 @@ Common uses of AI speech technologies include:
 - Automated transcription of calls or meetings.
 - Automating audio descriptions of video or text.
 - Automated speech translation between languages.
+
+## Computer Vision
+**Computer vision** is the area of artificial intelligence that deals with the analysis of visual input; such as photographs, videos, and live camera feeds. Computer vision is accomplished by using large numbers of images to train a model.
