@@ -66,3 +66,10 @@ Common uses of computer vision include:
 - Security video monitoring.
 - Authentication through facial recognition.
 - Robotics and self-driving vehicles.
+
+## Information Extraction
+AI is commonly used to automate information extraction solutions that find information and unlock insights in unstructured data sources, such as scanned documents and forms, images, and audio or video recordings.
+
+The basis for most document analysis solutions is a computer vision technology called **optical character recognition** (OCR), which can identify the location of text in an image. OCR is often combined with an analytical model that can interpret individual values in the document, and so extract specific fields.
+
+While most data extraction models have historically focused on extracting fields from text-based forms, more advanced models that can extract information from audio recording, images, and videos are becoming more readily available.
