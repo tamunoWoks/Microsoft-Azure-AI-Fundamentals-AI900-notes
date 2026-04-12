@@ -6,3 +6,10 @@ Users interact with generative AI language models through prompts, which are nat
 Generative AI models encapsulate semantic relationships between language elements (meaning the models "know" how words relate to one another), and that's what enables them to generate a meaningful sequence of text.
 
 There are **large language models** (LLMs) and **small language models** (SLMs), and the difference is based on the volume of data and the number of variables in the model. LLMs are powerful and generalize well, but can be more costly to train and use. SLMs tend to work well in scenarios that are more focused on specific topic areas or that require easily deployed small models for local applications and agents on devices.
+
+#### Generative AI scenarios
+Common uses of generative AI include:
+- Implementing AI agents that assist human users by providing information or automating tasks.
+- Creating new documents or other content (often as a starting point for further iterative development)
+- Automated translation of text between languages.
+- Summarizing or explaining complex documents.
