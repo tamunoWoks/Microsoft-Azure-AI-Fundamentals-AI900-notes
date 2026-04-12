@@ -80,3 +80,7 @@ Common uses of AI to extract data and insights include:
 - Large-scale digitization of data from paper forms. For example, scanning and archiving census records.
 - Indexing documents for search.
 - Identifying key points and follow-up actions from meeting transcripts or recordings.
+
+## Responsible AI
+Principles for responsible AI include:
+**- Fairness** AI models are trained using data, which is generally sourced and selected by humans. There's substantial risk that the data selection criteria, or the data itself reflects unconscious _bias_ that may cause a model to produce discriminatory outputs. AI developers need to take care to minimize bias in training data and test AI systems for fairness.
