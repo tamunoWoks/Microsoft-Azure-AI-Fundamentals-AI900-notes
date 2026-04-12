@@ -87,3 +87,4 @@ Principles for responsible AI include:
 - **Reliability & Safety:** AI is based on probabilistic models, it is not infallible. AI-powered applications need to take this into account and mitigate risks accordingly.
 - **Privacy & Security:** Models are trained using data, which may include personal information. AI developers have a responsibility to ensure that the training data is kept secure, and that the trained models themselves can't be used to reveal private personal or organizational details.
 - **Inclusiveness:** The potential of AI to improve lives and drive success should be open to everyone. AI developers should strive to ensure that their solutions don't exclude some users.
+- **Transparency:** AI can sometimes seem like "magic", but it's important to make users aware of how the system works and any potential limitations it may have.
