@@ -13,3 +13,8 @@ Common uses of generative AI include:
 - Creating new documents or other content (often as a starting point for further iterative development)
 - Automated translation of text between languages.
 - Summarizing or explaining complex documents.
+
+## Text and Natural language
+Natural language processing (NLP) is a broad term that covers AI models and techniques for making sense of language. NLP is the foundation on which generative AI large language models (LLMs) are built.
+
+While many natural language processing scenarios are handled by generative AI models today, there are common text analysis use cases where specialist NLP tools are used to produce predictable results or apply custom rules.
