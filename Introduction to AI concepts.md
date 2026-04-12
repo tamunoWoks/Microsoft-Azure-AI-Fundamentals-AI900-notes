@@ -35,3 +35,8 @@ Speech capabilities in AI applications and agents enable users to interact with 
 
 ### Speech Recognition
 **Speech recognition** is the ability of AI to "hear" and interpret speech. Usually this capability takes the form of _speech-to-text_ (where the audio signal for the speech is transcribed into text).
+
+### Speech Synthesis
+**Speech synthesis** is the ability of AI to vocalize words as spoken language. Usually this capability takes the form of _text-to-speech_ in which information in text format is converted into an audible signal.
+
+AI speech technology is evolving rapidly to handle challenges like ignoring background noise, detecting interruptions, and generating increasingly expressive and human-like voices.
