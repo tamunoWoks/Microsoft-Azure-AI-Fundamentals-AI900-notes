@@ -67,3 +67,6 @@ The integration and orchestration layer connects models and data with business l
 - Portal tools for managing models, agents, and workflows.
 
 By using Foundry to build their applications, developers can embed intelligence directly within the data layer for smarter, more responsive applications.
+
+## Microsoft Foundry for AI
+**Microsoft Foundry** is a unified, enterprise-grade platform for building, deploying, and managing AI applications and agents. It consolidates models, agent orchestration, monitoring, and governance tools in one platform, offering production-grade infrastructure and security. With Foundry, developers can seamlessly design, customize, and scale generative AI applications using a rich portal experience or integrated SDKs, without worrying about underlying infrastructure complexities.
