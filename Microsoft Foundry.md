@@ -31,3 +31,10 @@ Some of the typical ways people interact with AI applications include:
 - **Embedded Features:** AI is integrated into apps for tasks like autocomplete, image recognition, or fraud detection.
 - **Decision Support:** AI applications provide insights or predictions to help users make informed choices (such as: personalized shopping, medical diagnostics).
 - **Automation:** They handle repetitive tasks, such as document processing or customer service, reducing manual effort.
+
+Some examples of AI applications for different industries include:
+- **Healthcare:** AI-powered diagnostic tools that analyze medical images (such as X-rays or MRIs) to help doctors detect diseases more accurately and quickly.
+- **Finance:** Fraud detection systems that use AI to monitor transactions in real time and identify suspicious activity, helping prevent financial crimes.
+- **Retail:** Personalized recommendation engines that analyze customer behavior and preferences to suggest products, improving the shopping experience.
+- **Manufacturing:** Predictive maintenance solutions that use AI to monitor equipment and forecast when machines are likely to fail, reducing downtime and maintenance costs.
+- **Education:** Intelligent tutoring systems that adapt to each student’s learning style and pace, providing customized feedback and support to enhance learning outcomes.
