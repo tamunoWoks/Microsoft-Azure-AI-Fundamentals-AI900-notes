@@ -49,3 +49,9 @@ Microsoft offers databases as a Platform-as-a-Service (PaaS). Platform services 
 
 ### Model Layer
 The model layer involves the selection, training, and deployment of machine learning or AI models. Models can be pretrained (for example: Azure OpenAI in Foundry Models) or custom-built using platforms like Azure Machine Learning. This layer also includes tools for fine-tuning, evaluating, and versioning models to ensure they meet performance and accuracy requirements. Microsoft Foundry, a unified Azure platform-as-a-service for enterprise AI operations, provides a comprehensive model catalog for application developers.
+
+### Compute Layer
+AI applications require compute resources to train and run models. Microsoft provides several platform options:
+- Azure App Service for hosting web apps and APIs.
+- Azure Functions for serverless, event-driven execution of AI tasks.
+- Containers for scalable and portable deployment of AI models and services. Azure Container Instances (ACI) offers lightweight, serverless container execution, perfect for AI workloads needing rapid deployment and simple scaling. Azure Kubernetes Service (AKS) is a fully managed Kubernetes service that provides enterprise-level orchestration for AI workloads.
