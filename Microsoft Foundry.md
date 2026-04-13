@@ -38,3 +38,11 @@ Some examples of AI applications for different industries include:
 - **Retail:** Personalized recommendation engines that analyze customer behavior and preferences to suggest products, improving the shopping experience.
 - **Manufacturing:** Predictive maintenance solutions that use AI to monitor equipment and forecast when machines are likely to fail, reducing downtime and maintenance costs.
 - **Education:** Intelligent tutoring systems that adapt to each student’s learning style and pace, providing customized feedback and support to enhance learning outcomes.
+
+## Components of an AI application
+Microsoft supports each layer of an AI application: the data layer, model layer, compute layer, and orchestration layer.
+
+### Data Layer
+The data layer is the foundation of any AI application. It includes the collection, storage, and management of data used for training, inference, and decision-making. Common data sources include structured databases such as Azure SQL and PostgreSQL, unstructured data, such as documents and images, and real-time streams. Azure services like Cosmos DB and Azure Data Lake are often used to store and manage large-scale datasets efficiently.
+
+Microsoft offers databases as a Platform-as-a-Service (PaaS). Platform services are managed cloud services that provide the foundational building blocks for developing, deploying, and running applications without requiring users to manage the underlying infrastructure. PaaS sits between Infrastructure-as-a-Service (IaaS) and Software-as-a-Service (SaaS) in the cloud service model.
