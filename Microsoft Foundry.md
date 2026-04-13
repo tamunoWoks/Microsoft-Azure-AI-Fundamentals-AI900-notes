@@ -58,3 +58,12 @@ AI applications require compute resources to train and run models. Microsoft pro
 
 **Note:**  
 **Application programming interfaces (APIs)** define the information that is required for one component to use the services of the other. APIs enable software components to communicate securely.
+
+### Integration & Orchestration Layer
+The integration and orchestration layer connects models and data with business logic and user interfaces. Foundry plays a key role here by offering:
+- An agent Service for building intelligent agents that can reason and act.
+- AI Tools like speech, vision, and language APIs.
+- Software Development Kits (SDKs) and APIs for integrating AI capabilities into applications.
+- Portal tools for managing models, agents, and workflows.
+
+By using Foundry to build their applications, developers can embed intelligence directly within the data layer for smarter, more responsive applications.
