@@ -88,3 +88,6 @@ Foundry offers a comprehensive suite of Azure services—such as speech, vision,
 
 ### Governance and Observability
 Governance ensures responsible AI development through compliance, identity management, and risk mitigation, while Observability delivers end-to-end visibility for performance, safety, and operational efficiency—helping organizations deploy AI confidently and at scale. Foundry embeds governance into the AI development lifecycle to ensure transparency, accountability, compliance, and security at scale. Specifically, Foundry provides a unified dashboard for metrics on performance, quality, and safety, lifecycle monitoring, and continuous feedback loops.
+
+## Getting Started with Foundry
+To get started with Foundry after you sign in using your Azure subscription, you need to create a space to do your development work. This space is known as a project. A project is the primary workspace for building AI applications and agents.
