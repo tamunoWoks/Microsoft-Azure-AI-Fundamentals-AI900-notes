@@ -70,3 +70,9 @@ By using Foundry to build their applications, developers can embed intelligence 
 
 ## Microsoft Foundry for AI
 **Microsoft Foundry** is a unified, enterprise-grade platform for building, deploying, and managing AI applications and agents. It consolidates models, agent orchestration, monitoring, and governance tools in one platform, offering production-grade infrastructure and security. With Foundry, developers can seamlessly design, customize, and scale generative AI applications using a rich portal experience or integrated SDKs, without worrying about underlying infrastructure complexities.
+
+Within Foundry's portal, you can work with:
+- **Foundry Models:** Access to foundation and partner models (Azure OpenAI in Foundry Models, Anthropic, Cohere, etc.).
+- **Agent Service:** Build and orchestrate multi-step AI workflows.
+- **Foundry Tools:** Prebuilt Azure services (Vision, Language, Search, Document Intelligence).
+- **Governance & Observability capabilities:** Centralized identity, policy, and monitoring for AI workloads.
